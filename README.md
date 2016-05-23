@@ -1,0 +1,1 @@
+Run npm and bower install, gulp, then nodemon server/server.js
